@@ -1,4 +1,4 @@
-# smart-_antitheft system using IOT(internet of things)
+# smart-antitheft system using IOT(internet of things)
 # Overview
 The goal of this project is to design a cost-effective anti-theft system that detects intruders and alerts you. We’ll use the following components:
 ESP8266 (NodeMCU): This Wi-Fi-enabled microcontroller will connect to the internet and allow remote monitoring.
