@@ -15,7 +15,8 @@ Create a new project in the Blynk app.Add a button widget to activate/deactivate
 In your Arduino sketch, connect to Wi-Fi using your credentials.Initialize the PIR sensor and set up the Blynk connection.When the button is pressed in the Blynk app, activate the PIR sensor.If motion is detected, send an alert (e.g., via SMS or email) to your phone.
 5 Security Considerations:
 Change default passwords on the NodeMCU.Encrypt communication channels (e.g., HTTPS for email or SMS).Implement access controls (authentication) for remote monitoring.
- # References and Tutorials
+ # Reference and Tutorial
+ 
 (LOW COST IOT THEFT DETECTION DEVICE )
 This tutorial provides step-by-step instructions for building a similar system using NodeMCU, PIR sensor, and Blynk.
 
